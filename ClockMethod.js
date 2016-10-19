@@ -1,5 +1,5 @@
 /**
- *   @author Jarvenpaa, Josiah (josiahjarvenpaa@live.com)
+ *  @author Meyerson, Gabe (gabemeyerson@gmail.com)
  *   @version 0.0.1
  *   @summary Clock || created: 10.18.2016
  *   @todo
